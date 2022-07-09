@@ -1,0 +1,10 @@
+Think Like A Monk,Jay Shetty,25,NRs798.0
+Massacre at the Palace, Jonathan Gregson,31,NRs450.0
+Midnight Sun,Stephenie Meyer,45,NRs1278.0
+Ready Player Two,Ernest Cline,29,NRs1118.0
+A Promised Land,Barack Obama,28,NRs3198.0
+Naruto,Masashi Kishimoto ,42,NRs800.0
+One Piece Manga,Eiichiro Oda,51,NRs800.0
+One Punch man,Yusuke Murata,46,NRs880.0
+Annapurna,Maurice Herzog,34,NRs638.0
+Home Body,Rupi Kaur,30,NRs798.0
